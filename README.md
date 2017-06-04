@@ -1,2 +1,2 @@
-# Joomlaproyect_artesaniacreativa
-Proyecto de pagina web con joomla Artesania Creativa
+# Proyect_artesaniacreativa
+Proyecto de pagina web Artesania Creativa
